@@ -2,6 +2,7 @@ package com.gable.bootapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
 public class DemoApplication extends SpringBootServletInitializer {
