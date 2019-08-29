@@ -11,7 +11,7 @@
 	<groupId>com.gable</groupId>
 	<artifactId>boot-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<package></package>
+	<package>war</package>
 
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
